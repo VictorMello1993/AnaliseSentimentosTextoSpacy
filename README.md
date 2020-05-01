@@ -2,6 +2,14 @@
 Repositório contendo scripts responsáveis pela análise de sentimentos em textos utilizando a biblioteca spaCy, uma das bibliotecas de processamento da linguagem natural mais utilizadas no mundo.
 O código foi desenvolvido em um curso ministrado pelo professor Jones Granatyr, da plataforma Udemy.
 
+Recursos:
+* SpaCy
+* Pandas
+* NumPy
+* SkLearn
+* Random
+* Seaborn
+
 Documentação oficial da biblioteca SpaCy: https://spacy.io/api/annotation#text-processing
 
 Google Colab: 
