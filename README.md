@@ -10,7 +10,7 @@ Recursos:
 * Random
 * Seaborn
 
-Documentação oficial da biblioteca SpaCy: https://spacy.io/api/annotation#text-processing
+Documentação oficial da biblioteca: https://spacy.io/api/annotation#text-processing
 
 Google Colab: 
 https://colab.research.google.com/drive/1W97WOylgQqBVlV6Z5HqIVym6Ucn3wyNG#scrollTo=gMIqrGA7jB6j
