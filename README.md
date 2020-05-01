@@ -13,7 +13,7 @@ Recursos:
 Documentação oficial da biblioteca: https://spacy.io/api/annotation#text-processing
 
 Google Colab: 
-https://colab.research.google.com/drive/1W97WOylgQqBVlV6Z5HqIVym6Ucn3wyNG#scrollTo=gMIqrGA7jB6j
-https://colab.research.google.com/drive/1Du4H8ktXlqY2NXSrz6TeZAaGbxQc3Xuo#scrollTo=jFAxwObFnIge
+* https://colab.research.google.com/drive/1W97WOylgQqBVlV6Z5HqIVym6Ucn3wyNG#scrollTo=gMIqrGA7jB6j
+* https://colab.research.google.com/drive/1Du4H8ktXlqY2NXSrz6TeZAaGbxQc3Xuo#scrollTo=jFAxwObFnIge
               
 
