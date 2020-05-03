@@ -29,6 +29,8 @@ No decorrer do curso, foi proposto o desafio de analisar os sentimentos dos text
 * Base de treinamento: https://github.com/VictorMello1993/AnaliseSentimentosTextoSpacy/blob/master/Bases%20de%20dados/Train50.csv
 * Base de testes: https://github.com/VictorMello1993/AnaliseSentimentosTextoSpacy/blob/master/Bases%20de%20dados/Test.csv
 
+Bases de dados obtidas da Kaggle: https://www.kaggle.com/augustop/portuguese-tweets-for-sentiment-analysis#TweetsNeutralHash.csv
+
 Resultado: no primeiro treinamento, foi obtida a acurácia de 99,74%. Ou seja, só tiveram 13 tweets que foram interpretados erroneamente pelo algoritmo.
 
 Google Colab: https://colab.research.google.com/drive/13V1-PMQ5hZqqDsdQpZHZ8Mu5EReV9hfv#scrollTo=8JhkTfbqai0f
