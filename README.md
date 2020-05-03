@@ -22,3 +22,10 @@ Google Colab:
 Também é fundamental verificar as probabilidades em função do número de classes (emoções). Geralmente, quanto menor (mínimo 2 classes), melhor.
 
 Verificar também se existe algum caracter ou termo inadequado que foi utilizado por engano no treinamento do algoritmo, como existência de mais stopwords.
+
+# Desafio: Análise de sentimentos em tweets
+No decorrer do curso, foi proposto o desafio de analisar os sentimentos dos textos de tweets a partir de uma base de dados que foi extraída da API da rede social. A base contém mais de 50000 tweets, cada uma com a sua respectiva polaridade: positiva ou negativa. Antes de realizar o treinamento, foi separado 10% dessa base para um conjunto de testes. Você pode extrair mais tweets filtrando por assunto.
+
+Resultado: no primeiro treinamento, foi obtida a acurácia de 99,74%. Ou seja, só tiveram 13 tweets que foram interpretados erroneamente pelo algoritmo.
+
+Google Colab: https://colab.research.google.com/drive/13V1-PMQ5hZqqDsdQpZHZ8Mu5EReV9hfv#scrollTo=8JhkTfbqai0f
