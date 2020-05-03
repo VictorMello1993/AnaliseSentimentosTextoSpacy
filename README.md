@@ -35,3 +35,5 @@ Resultado: no primeiro treinamento, foi obtida a acurácia de 99,74%. Ou seja, s
 
 Google Colab: https://colab.research.google.com/drive/13V1-PMQ5hZqqDsdQpZHZ8Mu5EReV9hfv#scrollTo=8JhkTfbqai0f
 
+Poderia classificar tweets utilizando Bag of Words e Naive Bayes Multinomial no lugar do deep learning utilizado pelo SpaCy.
+https://www.kaggle.com/leandrodoze/sentiment-analysis-in-portuguese/comments#297224
