@@ -26,8 +26,8 @@ Verificar também se existe algum caracter ou termo inadequado que foi utilizado
 # Desafio: Análise de sentimentos de tweets
 No decorrer do curso, foi proposto o desafio de analisar os sentimentos dos textos de tweets a partir de uma base de dados que foi extraída da API da rede social. A base contém mais de 50000 tweets, cada uma com a sua respectiva polaridade: positiva ou negativa. Antes de realizar o treinamento, foi separado 10% dessa base para um conjunto de testes. Você pode extrair mais tweets filtrando por assunto.
 
-Base de treinamento: https://github.com/VictorMello1993/AnaliseSentimentosTextoSpacy/blob/master/Bases%20de%20dados/Train50.csv
-Base de testes: 
+* Base de treinamento: https://github.com/VictorMello1993/AnaliseSentimentosTextoSpacy/blob/master/Bases%20de%20dados/Train50.csv
+* Base de testes: https://github.com/VictorMello1993/AnaliseSentimentosTextoSpacy/blob/master/Bases%20de%20dados/Test.csv
 
 Resultado: no primeiro treinamento, foi obtida a acurácia de 99,74%. Ou seja, só tiveram 13 tweets que foram interpretados erroneamente pelo algoritmo.
 
